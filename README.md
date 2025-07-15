@@ -1,7 +1,7 @@
-# 🛒 Shopping API
+# 🛒 Shoppingmall API
 
 상품의 이름(name), 가격(price), 설명(description)을 MariaDB에 등록하고  
-상품 ID에 따라 개별 상품을 조회하거나 전체 상품을 조회할 수 있는 간단한 쇼핑 API 프로젝트입니다.
+상품 ID에 따라 개별 상품을 조회하거나 전체 상품을 조회할 수 있는 간단한 쇼핑몰 API 프로젝트입니다.
 
 ---
 
